@@ -1,0 +1,7 @@
+dev:
+  env: 'dev'
+  baseUrl: ''
+
+qa:
+  env: 'qa'
+  petStoreUrl: 'https://petstore.swagger.io/v2'

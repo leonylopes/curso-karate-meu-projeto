@@ -1,0 +1,5 @@
+# Ignorar pasta de build do Maven
+target/
+
+# Ignorar configurações do IntelliJ IDEA
+.idea/
